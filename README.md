@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# I'm Ian Monroe.  
+
+I live in Colorado, and I do web programming work.
+
+📫 How to reach me: [ianmonroe.com](https://www.ianmonroe.com)
+
+
 <!--
 **imonroe/imonroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
