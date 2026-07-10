@@ -6,7 +6,7 @@ I live in Colorado, and I do web programming work.
 
 📫 How to reach me: [ianmonroe.com](https://www.ianmonroe.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imonroe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=imonroe)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **imonroe/imonroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
