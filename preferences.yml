@@ -1,1 +1,31 @@
-
+updated: 2026-07-20 15:12:15 UTC+0000
+identity:
+  handle: imonroe
+format:
+  units: imperial
+  markdown: true
+routing: 
+  prefer_models: 
+    - anthropic/claude-opus-4.8
+    - openai/gpt-5.6-terra
+  avoid_models: []
+  local_first: false
+  max_latency_ms: 3000
+privacy:
+  training_opt_in: false
+  log_retention: 30d
+  do_not_share: 
+    - resume
+    - address
+contact:
+  primary: email:ian@ianmonroe.com
+  async_ok: true
+  office_hours: "Mon-Fri 09:00-18:00 America/Denver"
+accessibiilty:
+  screen_reader: false
+  high_contrast: false
+  reduce_motion: true
+  theme_preferece: dark
+  
+  
+  
